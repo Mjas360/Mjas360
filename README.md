@@ -1,6 +1,6 @@
-"### Hi there 👋
+### Hi there 👋
 
-<!--
+
 **Mjas360/Mjas360** is a ✨Frontend Software Engineer✨ who is passionate about learning, building, and solving problems.
 
 I also love working with developer communities on a global scale, building cool demos, and exploring the world of designs.
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I'm an avid hiker and have explored trails in various countries!
 
 Looking forward to connecting with fellow developers and enthusiasts who share my passion for creating amazing web experiences! Let's build and learn together. 🚀
--->
+
