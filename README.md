@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-**Mjas360/Mjas360** is a ✨Frontend Software Engineer✨ who is passionate about learning, building, and solving problems.
+**I'm Mjas360👻**. 
+
+✨A Frontend Software Engineer✨ who is passionate about learning, building, and solving problems.
 
 I also love working with developer communities on a global scale, building cool demos, and exploring the world of designs.
 
