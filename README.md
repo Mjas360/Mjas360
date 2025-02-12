@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with mastering advanced CSS techniques and improving my UI/UX design skills.
 - 💬 Ask me about responsive web design, JavaScript frameworks like React, and best practices for optimizing frontend performance.
 - 📫 How to reach me: You can connect with me via email at amosasulyman360@gmail.com or on [LinkedIn](www.linkedin.com/in/amosa-sulyman-baa132245).
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm an avid hiker and have explored trails in various countries!
+- ⚡ Fun fact: I'm an avid hiker—mostly in my dreams, but it still counts, right? 😆
 
 Looking forward to connecting with fellow developers and enthusiasts who share my passion for creating amazing web experiences! Let's build and learn together. 🚀
 
